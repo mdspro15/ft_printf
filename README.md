@@ -11,4 +11,4 @@ I have read through this website to understand it. <br>
 https://www.geeksforgeeks.org/variadic-functions-in-c/
 
 # Format specifier
-画像
+![image](https://github.com/mdspro15/ft_printf/assets/142498552/3c3fd387-8fc4-4746-85c8-fdc769709127)
