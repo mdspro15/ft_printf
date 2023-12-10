@@ -8,4 +8,7 @@ Your function has to handle the following conversions: cspdiuxX%
 A function that can accept a variable number of arguments. <br>
 It takes one fixed argument and then any number of arguments can can be passed.<br>
 I have read through this website to understand it. <br>
-https://www.geeksforgeeks.org/variadic-functions-in-c/ 
+https://www.geeksforgeeks.org/variadic-functions-in-c/
+
+# Format specifier
+画像
